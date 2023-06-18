@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oubelkas-FATIMA
 - 👀 I’m interested in cloud architect, data science ..
 - 🌱 I’m currently learning AWS solution architect associate
-- 💞️ I’m looking to collaborate on cloud providers architect, data science 
+- 💞️ I’m looking to collaborate on cloud providers architect, data science, ML, AI ... 
 - 📫 How to reach me :
     linkedIn account : https://www.linkedin.com/in/fatima-oubelkas-0ab089219/
 
